@@ -1,1 +1,2 @@
 # CurrencyWidget
+Виджет валют
